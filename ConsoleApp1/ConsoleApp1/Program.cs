@@ -2,6 +2,8 @@
 
 public class Program
 {
+    int someTest = 8;
+
     public static void Main(string[] args)
     {
         Console.WriteLine("Hello, World!");
